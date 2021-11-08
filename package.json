@@ -1,0 +1,35 @@
+{
+  "name": "sleek",
+  "displayName": "Sleek",
+  "description": "A minimal dark theme for VSCode",
+  "version": "0.0.1",
+  "publisher": "SumitKolhe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumitkolhe/Sleek"
+  },
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "charcoal",
+    "dark theme",
+    "sleek",
+    "minimal",
+    "minimal dark"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sleek",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sleek-color-theme.json"
+      }
+    ]
+  }
+}
