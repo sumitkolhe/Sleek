@@ -7,6 +7,5 @@
 ## Download [Sleek](https://marketplace.visualstudio.com/items?itemName=SumitKolhe.sleek)
 
 - Sleek is a minimalistic dark theme for VS Code
-- It comes in two flavours:
 
 A rating on the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SumitKolhe.sleek) is highly appreciated!
