@@ -2,7 +2,7 @@
   "name": "sleek",
   "displayName": "Sleek",
   "description": "A minimal dark theme for VSCode",
-  "version": "1.3.0",
+  "version": "1.0.0",
   "publisher": "SumitKolhe",
   "repository": {
     "type": "git",
